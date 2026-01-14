@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/3D_Printing-red?style=for-the-badge&logo=bambulab&logoColor=white" alt="3D Printing" />
   </p>
 
-  <img src="assets/final.png" alt="Automated Collator Machine" width="500px" height="500px">
+  <img src="assets/final.png" alt="Automated Collator Machine" width="350px" height="350px">
 
 </div>
 

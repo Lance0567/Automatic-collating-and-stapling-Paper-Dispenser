@@ -33,7 +33,7 @@ This prototype automates the entire workflow: dispensing individual sheets from 
 
 | Feature | Description |
 | :--- | :--- |
-| **📑 Multi-Bin Dispensing** | Three separate input bins capable of dispensing sheets sequentially to form a complete document set. |
+| **📑 Multi-Bin Dispensing** | Five separate input bins capable of dispensing sheets sequentially to form a complete document set. |
 | **⚙️ Conveyor Transport** | A belt-driven mechanism powered by DC gear motors that transports papers smoothly from bins to the staging area. |
 | **📏 Auto-Alignment** | Mechanical arms that automatically align the loose papers into a neat stack before stapling. |
 | **📎 Automated Stapling** | A high-torque servo mechanism that triggers a stapler once the document set is verified as complete. |
